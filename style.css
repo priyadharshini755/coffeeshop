@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-nav li{
+    font-family: "Nunito", sans-serif;
+    font-size: 1.2rem;
+    color: black;    
+}
+.heroJumbotron h1{
+    font-family: "Merienda", cursive;
+    font-weight:950;
+    font: size 850px; ;
+}
+.heroJumbotron p{
+    font-family: "Nunito", sans-serif;
+    font-weight:500 ;
+    font-size:1rem;
+}
+.heroJumbotron button{
+    font-family: "Nunito", sans-serif;
+    font-size: 1.2rem;
+    font-weight:450;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    background-color: #Be9c79;
+    border: #Be9c79;   
+}
+.heroJumbotron a{
+    color: white;
+}
+.heroSection{
+    background-image: url(./assets/images/hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 17rem 0rem;
+}
+.ourMenuJumbotron h2{
+    font-family:  "Merienda", cursive;
+    font-size:750;
+    font-weight: 950;
+}
+.ourMenuJumbotron p{
+    font-family:"Nunito", sans-serif;
+    font-weight:500;
+}
+.ourMenuJumbotron button{
+    font-family: "Nunito", sans-serif;
+    font-size: 1.2rem;
+    font-weight:450;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    background-color: #Be9c79;
+    border: #Be9c79;   
+}
+.ourMenuJumbotron a{
+    color: white;
+}
+.headingTitle h2{
+    font-family: "Merienda", cursive;
+    font-size: 750;
+    font-weight: 950;
+}
+.facilityCardBody h3{
+    font-family: "Nunito", sans-serif;
+    font-size: 1.3rem;  
+}
+.facilityCardBody p{
+    font-family: "Nunito", sans-serif;
+    font-weight: 500;
+}
+.popularCard h3{
+    font-family: "Nunito", sans-serif;
+    font-size: 1.3rem;
+}
+.galleryCard img{
+    aspect-ratio: 3/2;
+}
+.teamBody {
+    padding: 4rem 5rem 4rem 4rem;
+}
+.teamCardBody h3{
+    font-family: "Nunito", sans-serif;
+    font-size: 1.3rem;
+    padding: 0rem 0rem 1rem 0rem;
+}
+.bookingForm h3{
+    font-family: "Nunito", sans-serif;
+    font-size: 2.2rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.bookingForm{
+    margin-top: 6.9rem;
+    padding: 0rem 2.7rem 0rem 2.7rem;
+    border: 0.1rem solid black;
+}
+.mb-3 input{
+    font-family: "Nunito", sans-serif;
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+    border-color: black;
+    
+}
+::placeholder{
+    color: rgb(139, 139, 139);
+    font-family: "Nunito", sans-serif;
+    font-weight: 500;
+
+}
+.formGroup button{
+    font-family: "Nunito", sans-serif;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+    font-weight:450;
+    padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+    background-color: #Be9c79;
+    border: #Be9c79;   
+    color: white;
+
+} 
+
+
+
+
+
+
+
+
+.iconsCardHeader i{
+    font-size: 3rem;
+    color:  #Be9c79;
+    padding: 1rem;
+}
+.IconsCard h3{
+    font-family: "Nunito", sans-serif;
+    font-size: 1.4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.IconsCard p{
+    font-family: "Nunito", sans-serif;  
+    font-size: 1.3rem;
+    line-height: 1rem;
+}
+.copyright p{
+    font-family: "Nunito", sans-serif;
+    font-size: 1.3rem;
+}
+.copyright span{
+    font-family: "Nunito", sans-serif;
+    color: #Be9c79;
+    font-size: 1.3rem;
+}
